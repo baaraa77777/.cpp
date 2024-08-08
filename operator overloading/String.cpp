@@ -1,4 +1,4 @@
-//To concanenate the two strings.
+//To concanenate the two strings using strcpy and strcat.
 #include<iostream>
 using namespace std;
 #include<string.h>
