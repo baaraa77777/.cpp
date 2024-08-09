@@ -1,4 +1,4 @@
-//Program to concanenate the two strings using 
+//Program to concanenate the two strings using operator overloading a
 #include<iostream>
 using namespace std;
 #include <string.h>
