@@ -1,4 +1,4 @@
-//Program to concanenate the two strings using operator overloading a
+//Program to concanenate the two strings using operator overloading as a frienf function.
 #include<iostream>
 using namespace std;
 #include <string.h>
