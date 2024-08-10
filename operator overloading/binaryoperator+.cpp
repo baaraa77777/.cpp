@@ -18,6 +18,7 @@ class height{
         h3.inch=h3.inch%12;
         return h3;
     }
+
     void display(){
         cout<<"Height:("<<feet<<","<<inch<<") "<<endl;
     } 
