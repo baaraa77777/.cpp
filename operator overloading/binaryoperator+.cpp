@@ -1,4 +1,4 @@
-//
+//To add the two heights(in feet and inch) using operator overloading as a member function
 #include<iostream>
 using namespace std;
 
