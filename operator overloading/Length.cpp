@@ -1,5 +1,5 @@
-//25.Create a class called Length that has data members meter and centimeter.
-//Overload + operator to add two objects of class Length. (For example, L3= L1 + L2)
+//25.Create a class called Length that has data members meter and centimeter. Overload + operator to add two objects of class Length. 
+//(For example, L3= L1 + L2)
 
 #include<iostream>
 using namespace std;
