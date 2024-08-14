@@ -1,5 +1,4 @@
-//WAP to overload unary minus (-) operator to invert sign of data members of a 
-//distance object.
+//WAP to overload unary minus (-) operator to invert sign of data members of a distance object.
 
 #include <iostream>
 using namespace std;
