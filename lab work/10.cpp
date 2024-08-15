@@ -1,3 +1,5 @@
+//10) Write a program that defines a function that takes an integer as an argument and returns a pointer to that integer.
+
 #include <iostream>
 using namespace std;
 int *returnPointer(int p)
