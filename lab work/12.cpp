@@ -1,3 +1,5 @@
+//12) Write a program that defines an inline function that takes three integers as arguments and returns the maximum of those
+//integers. Call this function in the main () function and print the result.
 
 #include <iostream>
 using namespace std;
