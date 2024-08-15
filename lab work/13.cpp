@@ -1,5 +1,4 @@
 //13) Define a class Interest with following specifications:
-
 //a. Data Members
 //i. principal
 //ii. time
