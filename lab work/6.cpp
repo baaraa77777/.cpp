@@ -1,3 +1,6 @@
+//6) Write a program that define a function that takes two integers and a characteras arguments and returns the result
+//of the operation specified by the character. The possible characters are '+', '-', '*', '/'.
+
 #include <iostream>
 using namespace std;
 float operation(int a, int b, char c)
