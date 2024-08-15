@@ -1,3 +1,5 @@
+//4) Write a program that uses an array to store 5 integers, and then outputs the sum of those integers.
+
 #include <iostream>
 using namespace std;
 int main()
