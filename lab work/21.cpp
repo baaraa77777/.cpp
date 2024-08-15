@@ -29,6 +29,6 @@ int main(){
     beta bb;
     aa.setdata(5);
     bb.setdata(6);
-    cout<<frifunction(aa,bb);
+    cout<<"The value after addition: <<frifunction(aa,bb)<<endl;
     return 0;
 }
