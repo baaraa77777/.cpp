@@ -1,4 +1,5 @@
 //Program to make a sub-class
+
 #include<iostream>
 using namespace std;
 
@@ -9,7 +10,7 @@ class A{
     }
 };
 
-class B:public A{
+class B:public A{ //subclass of class A
 
 };
 
